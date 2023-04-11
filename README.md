@@ -1,4 +1,5 @@
 ## DSCI 310 individual assignment on reproducible reports
+![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/last-update/notepad4e)
 
 This is a template repository 
 for the individual assignment on reproducible reports
